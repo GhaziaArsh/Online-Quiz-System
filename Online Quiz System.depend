@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1724389396 source:c:\users\pmls\desktop\c++ tasks\online quiz system\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+
